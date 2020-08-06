@@ -1,5 +1,5 @@
 import SwiftUI
-import SwifteriOS
+import Swifter
 
 public struct ContentView: View {
     var swifter = Swifter(consumerKey: "E5PXkHjR3RWabtdyufbqIlgsE", consumerSecret: "Wp6YO6VMxhH6ZxJQvPj91SYekoT9TgpKqyH3oyH41Xjfw7Hxsd")
